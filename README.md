@@ -1,1 +1,11 @@
 # Disease_Prediction
+
+This project uses Machine Learning Algorithms to predict a disease based on the symptoms.
+
+# Algorithm Used
+
+The following algorithms have been tested on the data
+1. Decision Tree Classifier
+
+# Dataset Used
+https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning
